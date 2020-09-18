@@ -1,0 +1,61 @@
+---
+title: "Puru Vaish s2236141 HWA 2"
+output: html_notebook
+---
+**Q**  
+g)  Read the data set in the supplementary file athletes.csv into the statistical software R. Estimate the probability in part e. by replacing μ and σ by the corresponding MLE and compute the confidence intervals in part f. (The best would be if you print the R script and attach it to your homework).
+
+```{r Initialise_all_the_variables}
+# If the file is in the same directory
+setwd("./")
+athlete_df = read.csv("athletes.csv")
+# Else:
+# athlete_df = read.csv(file.choose())
+
+#get the names of the column for reference
+print(names(athlete_df))
+
+# Register the names of the header into R workspace
+attach(athlete_df)
+
+# the number of values in the data set before dropping na
+n = length(TEratios)
+
+# Clean athlete data if there are any na values in TEratios
+if (sum(TEratios == F) != 0) {
+  athlete_df = athlete_df[!which(is.na(TEratios))]
+}
+
+# the number of values in the data set after dropping na
+n = length(TEratios)
+
+# calculate the mean of the data set, I explicitly used the mle formula, even though R uses the same mean just to be explicit
+mu_mle = sum(TEratios)/n
+
+# calculate the sigma (standard deviation) using the variance formula. I had to use the formula here explicitly since R uses n-1, which is not the case for mle of sigma_sq
+sigma_mle = sqrt(sum((TEratios-mu_mle)^2)/n)
+```
+
+**Q.**  
+Estimate the probability in part e. by replacing μ and σ by the corresponding MLE
+```{r}
+prob = 1 - pnorm(4, mean = mu_mle, sd = sigma_mle)
+sprintf(" The probability a 'clean' athlete has suspicious ratio is= %f", prob)
+```
+**Q**  
+compute the confidence intervals in part f
+for mu_mle
+```{r}
+c_0.025 = qnorm(1-0.025, df=n-1)
+mu_mle_ci_0.025 = c(mu_mle - c_0.025*(sigma_mle)/sqrt(n), mu_mle + c_0.025*(sigma_mle)/sqrt(n))
+sprintf("for mu_mle The lower bound is: %f and the upper bound is: %f for confidence interval 95", mu_mle_ci_0.025[1], mu_mle_ci_0.025[2])
+```
+for sigma_mle
+```{r}
+c_0.05_1 = qchisq(1-0.05, n-1)
+c_0.05_2 = qchisq(0.05, n-1)
+
+sigma_mle_ci_0.05 = c(sqrt(n*(sigma_mle^2)/c_0.05_1), sqrt(n*(sigma_mle^2)/c_0.05_2))
+sprintf("for sigma_mle The lower bound is: %f and the upper bound is: %f for confidence interval 90", sigma_mle_ci_0.05[1], sigma_mle_ci_0.05[2])
+```
+

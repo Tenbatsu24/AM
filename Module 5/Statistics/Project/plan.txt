@@ -1,0 +1,19 @@
+0. For all 5 countries categories find which one emits most CO2, by doing blox plots
+	followed by test as was sone for students in back and front, etc.
+	this was the two sample test. (look at the R script before doing)
+1. Descriptive Statistics
+	find if percentage change is normal distributed
+	qq
+	find the country which has done max emissions, per capita
+2. Find if we have been emitting more CO2
+	percentage change, then >0, hypothesis testing
+	avg across country, then new column for percentage
+	then test
+3. Find effect of climate accord
+	countries who signed the accord
+	and those who did not
+	does signing the accord make any difference?
+4. Find relation between gdp with co2 emissions
+	use gdp change with co2 change
+	do test
+

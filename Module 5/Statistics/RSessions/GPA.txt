@@ -1,0 +1,413 @@
+Seat	GPA	alcohol
+2_Middle	2.60	15
+2_Middle	2.70	14
+1_Front	3.00	
+1_Front	3.11	10
+3_Back	3.40	30
+2_Middle	3.43	20
+1_Front	3.70	15
+3_Back	3.70	15
+2_Middle	3.77	0
+1_Front	3.50	0
+1_Front	3.00	
+2_Middle	3.00	0
+1_Front	3.50	0
+2_Middle	3.25	0
+2_Middle	2.83	0
+1_Front	2.62	0
+2_Middle	3.15	
+2_Middle		1
+1_Front	3.70	0
+2_Middle		2
+2_Middle	3.65	
+2_Middle	3.60	0
+2_Middle	3.00	1
+2_Middle	2.25	
+2_Middle		
+2_Middle	2.54	2
+2_Middle	2.60	0
+2_Middle		1
+3_Back	3.00	10
+2_Middle	2.93	
+3_Back	3.20	12
+3_Back		3
+2_Middle	3.00	
+1_Front	3.40	1
+2_Middle	2.50	0
+2_Middle	3.00	0
+2_Middle	3.51	8
+2_Middle	2.37	0
+2_Middle		0
+2_Middle	3.50	0
+3_Back	3.00	0
+2_Middle	2.90	0
+2_Middle	3.90	0
+2_Middle	2.65	1
+2_Middle	3.50	3
+2_Middle	3.30	3
+2_Middle	3.40	5
+2_Middle	3.60	0
+2_Middle	3.21	0
+3_Back	3.10	0
+2_Middle	3.85	1
+2_Middle	3.20	2
+3_Back	2.50	3
+2_Middle	2.50	12
+2_Middle		12
+2_Middle	2.90	2
+2_Middle		0
+1_Front	2.80	0
+2_Middle	2.60	0
+3_Back	3.05	8
+1_Front	3.70	3
+1_Front	4.00	9
+3_Back	3.50	9
+1_Front	3.22	0
+3_Back	2.90	2
+3_Back	3.25	
+1_Front	3.26	0
+1_Front	3.00	0
+2_Middle		
+2_Middle	2.01	0
+1_Front	3.71	0
+2_Middle	3.87	5
+1_Front	3.26	0
+2_Middle	2.50	10
+2_Middle	2.90	3
+2_Middle	3.60	0
+2_Middle	3.90	0
+	2.00	
+2_Middle	3.20	2
+2_Middle	3.30	4
+2_Middle	2.80	0
+2_Middle	3.80	
+2_Middle	3.00	
+2_Middle	2.23	0
+1_Front	3.88	0
+2_Middle	3.01	0
+2_Middle	2.50	0
+2_Middle	3.00	3
+2_Middle	2.79	0
+2_Middle	3.80	0
+1_Front	3.25	3
+2_Middle	2.80	0
+1_Front	3.39	0
+2_Middle	2.64	0
+2_Middle	3.65	0
+1_Front	3.40	0
+1_Front	3.33	0
+1_Front	3.90	4
+2_Middle	2.54	1
+2_Middle	2.80	0
+2_Middle	3.50	0
+2_Middle	3.10	
+2_Middle	2.66	3
+2_Middle	1.91	4
+2_Middle	2.80	22
+2_Middle	2.80	2
+2_Middle	2.70	
+1_Front	3.80	0
+1_Front	3.24	
+3_Back	2.58	10
+2_Middle	3.17	10
+2_Middle	2.60	
+2_Middle	2.58	1
+1_Front	2.00	0
+1_Front	3.44	0
+2_Middle	2.50	0
+3_Back	2.90	20
+2_Middle	2.70	12
+2_Middle	3.50	
+2_Middle	3.00	0
+1_Front	2.44	0
+2_Middle	2.00	0
+2_Middle	3.34	12
+2_Middle	3.83	
+1_Front	1.92	5
+2_Middle	2.70	
+2_Middle	3.90	0
+2_Middle	2.33	0
+2_Middle		0
+1_Front	1.96	1
+2_Middle	3.00	3
+1_Front	3.00	1
+3_Back	3.40	0
+1_Front	2.05	0
+2_Middle	3.10	18
+2_Middle	3.00	
+2_Middle	3.00	
+2_Middle		0
+2_Middle	3.25	3
+3_Back	3.92	0
+1_Front	4.00	0
+3_Back	3.00	20
+2_Middle	3.26	25
+	2.80	0
+3_Back	2.84	2
+3_Back	2.80	10
+3_Back	2.87	14
+2_Middle	2.10	15
+2_Middle	2.77	20
+3_Back	2.95	20
+2_Middle	3.70	15
+1_Front	3.89	3
+1_Front	3.50	1
+2_Middle		0
+2_Middle	3.00	0
+2_Middle	3.88	2
+2_Middle	3.00	0
+3_Back	4.00	0
+3_Back	3.20	7
+2_Middle	3.20	0
+2_Middle	3.57	
+2_Middle	3.00	0
+2_Middle	2.96	2
+3_Back	2.50	7
+1_Front	2.67	0
+1_Front	3.00	0
+2_Middle	2.70	0
+2_Middle	3.80	0
+2_Middle	2.50	0
+1_Front	3.10	4
+3_Back	3.50	
+2_Middle	3.87	10
+1_Front	3.70	0
+2_Middle	3.40	5
+1_Front		0
+1_Front	3.54	0
+2_Middle	3.80	0
+1_Front	3.21	0
+3_Back	3.00	12
+2_Middle	2.04	14
+2_Middle	2.80	10
+2_Middle	2.40	15
+2_Middle	2.90	10
+2_Middle	2.38	36
+2_Middle	3.83	3
+2_Middle	2.90	5
+2_Middle	2.91	1
+3_Back	2.90	5
+3_Back	2.04	3
+2_Middle	3.67	0
+2_Middle	3.00	4
+1_Front	3.30	
+3_Back	3.60	7
+2_Middle	3.50	8
+2_Middle	3.00	25
+2_Middle	3.70	10
+1_Front		
+3_Back	3.40	0
+2_Middle	3.33	0
+3_Back		2
+1_Front	3.80	0
+2_Middle	4.00	9
+1_Front	3.00	0
+2_Middle	3.00	
+3_Back	3.00	15
+2_Middle	3.20	0
+1_Front	3.40	2
+1_Front	3.50	0
+1_Front	3.60	0
+3_Back	3.43	0
+1_Front	3.92	6
+2_Middle	3.00	1
+1_Front	2.90	0
+2_Middle	3.20	
+2_Middle	3.40	0
+2_Middle	3.70	0
+2_Middle	3.40	10
+2_Middle	3.10	0
+2_Middle	3.00	0
+2_Middle	3.79	0
+1_Front	3.90	0
+3_Back	2.10	10
+3_Back	3.00	15
+3_Back	2.06	30
+3_Back	3.00	6
+2_Middle	3.81	0
+3_Back	2.40	1
+2_Middle	2.60	10
+2_Middle	3.00	3
+2_Middle	3.00	12
+2_Middle	3.90	
+3_Back	2.94	1
+3_Back	2.50	30
+3_Back	2.50	12
+3_Back	2.70	
+3_Back	3.20	0
+3_Back	2.67	1
+3_Back	2.00	6
+3_Back	2.46	6
+3_Back	4.00	12
+3_Back		0
+3_Back	2.30	0
+3_Back	2.60	0
+2_Middle	2.80	0
+1_Front	2.62	5
+2_Middle	2.20	0
+1_Front	3.78	2
+2_Middle	3.20	5
+2_Middle	3.31	1
+3_Back	3.39	0
+1_Front		0
+2_Middle	3.00	7
+2_Middle	2.50	3
+3_Back	2.80	15
+1_Front	2.34	3
+2_Middle	2.00	1
+3_Back	2.40	15
+2_Middle	1.05	5
+2_Middle	2.10	5
+2_Middle	3.25	35
+2_Middle	3.50	0
+3_Back	3.00	
+3_Back	2.20	55
+1_Front	2.50	0
+2_Middle	2.52	
+1_Front	3.50	0
+2_Middle	3.00	10
+3_Back	3.60	30
+3_Back	3.16	4
+3_Back	2.40	20
+2_Middle	2.65	0
+1_Front		0
+1_Front	2.60	0
+2_Middle	0.55	0
+1_Front	3.84	0
+1_Front	3.40	2
+2_Middle	4.00	0
+	3.20	0
+2_Middle	3.00	0
+	2.20	10
+2_Middle	3.50	1
+3_Back	3.28	2
+1_Front	3.20	0
+3_Back	2.81	4
+2_Middle	2.87	0
+2_Middle	3.19	0
+2_Middle	1.98	30
+2_Middle	1.90	1
+2_Middle	2.51	0
+2_Middle	3.20	2
+2_Middle	3.04	0
+1_Front	2.50	20
+3_Back	2.00	3
+3_Back	2.60	10
+2_Middle	3.06	0
+2_Middle	2.80	0
+1_Front	3.00	0
+1_Front	3.30	0
+1_Front	3.20	1
+2_Middle	3.50	0
+2_Middle	3.00	2
+3_Back	2.50	0
+2_Middle	2.40	2
+2_Middle	2.02	3
+2_Middle	2.14	1
+2_Middle	3.00	0
+1_Front	3.73	0
+1_Front	3.00	0
+2_Middle	2.23	0
+2_Middle	2.30	2
+2_Middle	2.58	3
+3_Back	3.50	10
+2_Middle	2.66	5
+2_Middle	3.00	0
+3_Back	3.25	18
+2_Middle		4
+3_Back	3.16	10
+2_Middle	3.00	0
+2_Middle	3.30	1
+2_Middle	1.85	15
+2_Middle	2.75	0
+1_Front	3.98	2
+2_Middle		
+2_Middle	3.12	6
+2_Middle	3.24	0
+3_Back	2.97	10
+3_Back	3.00	0
+2_Middle	3.00	0
+3_Back	3.01	1
+2_Middle	3.10	0
+1_Front	3.40	3
+1_Front	4.00	0
+2_Middle	2.80	6
+2_Middle	3.37	7
+1_Front	3.40	0
+3_Back	3.50	1
+2_Middle	3.50	
+2_Middle	2.40	0
+2_Middle	2.00	18
+1_Front	3.50	0
+2_Middle	2.70	2
+2_Middle	3.00	1
+2_Middle	2.50	1
+2_Middle	2.17	4
+1_Front	3.10	0
+1_Front	2.50	0
+3_Back	3.43	5
+1_Front	3.60	0
+2_Middle	2.91	0
+3_Back		0
+1_Front	2.83	0
+2_Middle	3.22	0
+2_Middle	3.80	2
+1_Front	2.10	0
+2_Middle	3.00	0
+2_Middle	2.87	10
+2_Middle	2.00	0
+2_Middle	3.91	0
+3_Back	4.00	0
+2_Middle	2.50	3
+3_Back		0
+2_Middle	3.50	3
+2_Middle	3.42	3
+2_Middle	3.30	3
+2_Middle	3.60	0
+2_Middle	2.26	3
+2_Middle	3.18	3
+3_Back	2.00	0
+1_Front	3.00	
+2_Middle	3.20	0
+2_Middle	3.90	0
+1_Front	2.00	0
+2_Middle	2.00	0
+2_Middle	2.66	0
+2_Middle	3.88	5
+3_Back	2.50	15
+2_Middle	3.15	0
+2_Middle	2.70	2
+3_Back	3.17	0
+1_Front	2.47	10
+2_Middle		12
+1_Front	3.30	0
+2_Middle	2.34	20
+3_Back	2.40	45
+1_Front	3.00	0
+2_Middle	2.81	0
+2_Middle	2.82	4
+1_Front	3.88	9
+1_Front	2.19	0
+3_Back	2.29	14
+2_Middle	3.62	0
+2_Middle	3.10	0
+2_Middle	2.80	0
+1_Front	2.74	2
+1_Front	2.99	5
+2_Middle	3.00	0
+2_Middle	2.70	0
+1_Front	3.10	2
+2_Middle	3.40	5
+2_Middle	2.40	20
+2_Middle	2.76	0
+1_Front	3.00	2
+1_Front	3.86	0
+2_Middle	3.00	
+3_Back	2.10	3
+3_Back	3.45	0
+3_Back	2.18	4
+3_Back	2.80	3
+1_Front		0
+2_Middle	3.50	10
+1_Front	4.00	5
+2_Middle	4.00	0
